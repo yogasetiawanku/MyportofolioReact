@@ -1,0 +1,264 @@
+.text-intro{
+    margin-top: 20px;
+}
+
+.box1{
+    background-color: azure;
+    width: 50px;
+    height: 3px;
+}
+.box2{
+    background-color: azure;
+    width: 20px;
+    height: 3px;
+    margin-top: 5px;
+}
+
+.web-dev{
+    margin-top: -29px;
+    margin-left: 200px;
+    color: rgb(125, 125, 125);
+    filter: drop-shadow(1px 1px 3px rgb(157, 0, 255));
+    -webkit-filter: drop-shadow(1px 1px 3px rgb(157, 0, 255));
+}
+
+div h5{
+    font-size: 17px;
+    text-shadow: 2px 2px 2px rgba(38, 0, 255, 0.345);
+}
+
+.span1{
+    margin-top: 8px;
+    color: rgb(91, 91, 92);
+    background-color: rgb(70, 70, 70);
+    width: 245px;
+    height: 2px;
+}
+
+.left{
+ margin-left: 300px;
+ margin-top: -195px;   
+}
+
+.left2 {
+ margin-top: -178px;
+ font-weight: 500;   
+}
+.left-html-bg1{
+    background-color: aliceblue;
+    height: 5px;
+    border-radius: 2px;
+    width: 285px;
+    position: relative;
+    margin-top: 40px;
+    margin-left: 620px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+}
+.left-html-bg2{
+    background-color:rgb(72, 0, 255);
+    height: 5px;
+    border-radius: 2px;
+    width: 250px;
+    position: absolute;
+    margin-top: -0.1px;
+    margin-left: -2px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+    animation: bluebghtml 2s;
+    -webkit-animation: bluebghtml 2.5s;
+}
+.left-css-bg2{
+    background-color: rgb(72, 0, 255);
+    height: 5px;
+    border-radius: 2px;
+    width: 230px;
+    position: absolute;
+    margin-top: -0.1px;
+    margin-left: -2px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+    animation: bluebghtml 2s;
+    -webkit-animation: bluebgcss 2.8s;
+}
+.left-js-bg2{
+    background-color: rgb(72, 0, 255);
+    height: 5px;
+    border-radius: 2px;
+    width: 210px;
+    position: absolute;
+    margin-top: -0.1px;
+    margin-left: -2px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+    animation: bluebghtml 2s;
+    -webkit-animation: bluebgjs 3s;
+}
+
+@keyframes bluebghtml{
+    0%{
+        width: 0px;
+    }
+}
+@keyframes bluebgcss{
+    0%{
+        width: 0px;
+    }
+}
+@keyframes bluebgjs{
+    0%{
+        width: 0px;
+    }
+}
+.left-html-bg2 .span2{
+margin-left: 1px;
+margin-top: -30px;
+position: absolute;
+}
+.left-html-bg2 .span3{
+margin-left: 250px;
+margin-top: -30px;
+position: absolute;
+}
+.left-css-bg2 .span2{
+margin-left: 1px;
+margin-top: -30px;
+position: absolute;
+}
+.left-css-bg2 .span3{
+margin-left: 250px;
+margin-top: -30px;
+position: absolute;
+}
+.left-js-bg2 .span2{
+margin-left: 1px;
+margin-top: -30px;
+position: absolute;
+}
+.left-js-bg2 .span3{
+margin-left: 250px;
+margin-top: -30px;
+position: absolute;
+}
+
+.fotosaya{
+    background-image: url("../images/foto\ saya.jpg");
+    background-size: cover;
+    background-position: 6px -22px;
+    margin-top: 8px;
+    box-shadow: 0.1px 0.1px 0.5px 2.8px rgb(0, 117, 251);
+    margin-left: -133px;
+    float: right;
+    width: 105px;
+    height: 100px;
+    position: absolute;
+}
+
+.bgfotosaya{
+    margin-right: -40px;
+    float: right;
+    margin-top: -190px;
+    position: relative;
+    background-color: rgb(85, 0, 164);
+    width: 179px;
+    height: 240px;
+    border-radius: 10px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 70px;
+}
+
+.spn2{
+    position: absolute;
+    margin-top: 140px;
+    margin-left: -125px;
+    font-size: 11px;
+    font-family: serif;
+    color: rgb(240, 242, 244);
+    text-shadow: 1px 1px 1px rgb(5, 0, 5);
+}
+
+.spn1{
+    font-family: serif;
+    position: absolute;
+    margin-top: 175px;
+    margin-left: -120px;
+    font-size: 11px;
+    color: rgb(240, 242, 244);
+    text-shadow: 1px 1px 1px rgb(5, 0, 5);
+}
+.bgfotosaya button{
+    margin-left: 85px;
+    margin-top: 178px;
+    width: 86px;
+    height: 32px;
+    font-size: 10.1px;
+}
+
+.mystyle {
+    background-image: linear-gradient( 135.9deg,  rgb(56, 0, 154) 16.4%, rgb(53, 21, 97) 56.1% );
+    border: 1px solid rgb(46, 0, 92);
+    box-shadow: 2px 2px 2px white;
+  }
+
+@media (min-width:300px) and (max-width:500px){
+    .web-dev{
+        margin-left: 185px;
+        margin-top: -27px;
+    }
+    div h5{
+        font-size: 16px;
+        text-shadow: 2px 2px 2px rgba(38, 0, 255, 0.345);
+    }
+    .font-res{
+        font-size: 12.2px;
+    }
+    .span1{
+        width: 175px;
+    }
+    .left{
+        margin-left: 190px;
+        margin-top: -170.5px;   
+    }
+    .left-html-bg2 .span2{
+        margin-left: -1px;
+        }
+        .left-html-bg2 .span3{
+        margin-left: 250px;
+        }
+    .left-css-bg2 .span2{
+        margin-left: -1px;
+        }
+        .left-css-bg2 .span3{
+        margin-left: 250px;
+        }
+        .left2 {
+        margin-top: 10px;
+        font-weight: 500;   
+        }
+        .left-html-bg2{
+            margin-top: -0.1px;
+            margin-left: -2px;
+        }
+        .left-html-bg1{
+            margin-top: 40px;
+            margin-left: 2px;
+        }
+        .bgfotosaya{
+            margin-right: 150px;
+            margin-top: 20px;
+        }
+        .mystyle {
+            background-image: linear-gradient( 135.9deg,  rgb(56, 0, 154) 16.4%, rgb(53, 21, 97) 56.1% );
+            border: 1px solid rgb(46, 0, 92);
+            box-shadow: 2px 2px 2px white;
+          }
+        
+}

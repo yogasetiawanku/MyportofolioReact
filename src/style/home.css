@@ -1,0 +1,166 @@
+.img2{
+    background-image: url("../images/pp.png");
+    width: 400px;
+    position: relative;
+    margin-top: -455px;
+    float: left;
+    justify-content: end;
+    text-align: end;
+    background-size: cover;
+    height: 530px;
+    left: 685px;
+    filter: drop-shadow(2px 3px 2px rgb(94, 1, 18));
+}
+
+
+
+.bgnav{
+    background-image: linear-gradient( 135.9deg,  rgb(42, 3, 109) 16.4%, rgb(42, 14, 82) 56.1% );
+    border: 1px solid rgb(46, 0, 92);
+}
+
+.intro{
+    margin-top: 100px;
+    color: aliceblue;
+}
+
+.animationintro{
+    position: relative;
+    margin-top: 30px;
+}
+
+.animationintro::before{
+   content: attr(data-text);
+   position: absolute;
+   top: -1px;
+   text-shadow: 2px 2px 2px rgb(51, 0, 113);
+   font-size: 42px;
+   left: -1px;
+   width: 100%;
+   height: 100px;
+   font-family: Arial, Helvetica, sans-serif;
+   color: rgb(84, 71, 255);
+   -webkit-text-stroke: 0vw #028dff;
+   border-right: 2px solid rgb(0, 51, 51);
+   overflow: hidden;
+   animation: animate 6s linear infinite;
+   -webkit-animation: animate 7s 2s linear infinite;
+}
+.animationintroo::before{
+   content: attr(data-text);
+   position: absolute;
+   top: 152px;
+   text-shadow: 2px 2px 2px rgb(51, 0, 113);
+   font-size: 22px;
+   left: 310px;
+   justify-content: end;
+   width: 100%;
+   height: 30px;
+   font-weight: 100;
+   font-family: 'Courier New', Courier, monospace;
+   color: rgb(255, 242, 0);
+   -webkit-text-stroke: 0vw #028dff;
+   border-right: 2px solid rgb(0, 51, 51);
+   overflow: hidden;
+   animation: animate 6s linear infinite;
+   -webkit-animation: animatee 8s linear infinite;
+}
+
+.intro2{
+    margin-top: 180px;
+}
+.intro h5{
+   font-family: 'Courier New', Courier, monospace;
+   font-size: 22px;
+}
+.intro h6{
+   font-family: 'Courier New', Courier, monospace;
+   font-size: 15px;
+}
+
+
+@keyframes animate{
+    0%,19%,100%
+    {
+        width: 0;
+    }
+    70%,90%
+    {
+        width: 700px;
+        top: 1px;
+        color: rgb(0, 217, 255);
+    }
+}
+@keyframes animatee{
+    0%,19%,100%
+    {
+        width: 0;
+    }
+    70%,90%
+    {
+        width: 190px;
+        color: rgb(68, 255, 0);
+    }
+}
+
+@media (min-width:300px) and (max-width:500px){
+        .animationintroo::before{
+        content: attr(data-text);
+        position: relative;
+        font-size: 22px;
+        top: -2px;
+        left: -1px;
+     }
+    .animationintro::before{
+        content: attr(data-text);
+        font-size: 23px;
+        width: 250px;
+        height: 50px;
+        margin-top: 280px;
+     }
+     .img2{
+        position:relative;
+        background-size: cover;
+        margin-top: -550px;
+        margin-left: -640px;
+        width: 250px;
+        height: 330px;
+     }
+     .intro h5{
+        margin-top: -85px;
+     }
+     .intro2{
+        margin-top: 380px;
+     }
+     .aturimage{
+        margin-top: -30px;
+     }
+     @keyframes animate{
+        0%,19%,100%
+        {
+            width: 0;
+        }
+        70%,90%
+        {
+            width: 280px;
+            top: 1px;
+            color: rgb(0, 217, 255);
+        }
+    }
+    @keyframes animatee{
+        0%,19%,100%
+        {
+           color: rgb(238, 255, 0);
+        }
+        70%
+        {
+            width: 10px;
+            color: rgb(68, 255, 0);
+        }
+        90%
+        {
+            color: rgb(0, 255, 242);
+        }
+    }
+}
+

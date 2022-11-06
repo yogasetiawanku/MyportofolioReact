@@ -1,0 +1,1026 @@
+.web-developer-service{
+    background-color: rgb(113, 2, 223);
+    box-shadow: 2px 2px 2px 2px rgb(227, 125, 255);
+    height: 150px;
+    width: 350px;
+    margin-top: 40px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+.web-developer-service2{
+    background-color: rgb(113, 2, 223);
+    box-shadow: 2px 2px 2px 2px rgb(227, 125, 255);
+    margin-left: 400px;
+    height: 150px;
+    width: 350px;
+    margin-top: -200px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+.web-developer-service3{
+    background-color: rgb(113, 2, 223);
+    box-shadow: 2px 2px 2px 2px rgb(227, 125, 255);
+    margin-left: 10px;
+    height: 150px;
+    width: 350px;
+    margin-top: 40px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+.web-developer-service4{
+    background-color: rgb(113, 2, 223);
+    box-shadow: 2px 2px 2px 2px rgb(227, 125, 255);
+    margin-left: 10px;
+    height: 150px;
+    width: 350px;
+    margin-top: 40px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+.leftweb{
+    top: 135px;
+    position: absolute;
+    left: 500px;
+}
+.leftweb2{
+    top: 135px;
+    position: absolute;
+    left: 900px;   
+}
+
+.imgfullstack{
+    background-image: url("../images/gambarfullstack.png");
+    width: 100px;
+    height: 100px;
+    background-size: cover;
+    margin-top: 25px;
+    margin-left: -10px;
+}
+.imgphp{
+    background-image: url("https://seeklogo.com/images/P/PHP-logo-0B2FDC4529-seeklogo.com.png");
+    width: 100px;
+    height: 100px;
+    background-size: contain;
+    margin-top: 25px;
+    background-position: 1px 20px;
+    margin-left: -10px;
+    background-repeat: no-repeat;
+}
+.imgjs{
+    background-image: url("https://seeklogo.com/images/J/javascript-logo-E967E87D74-seeklogo.com.png");
+    width: 100px;
+    height: 100px;
+    background-size: 60px;
+    margin-top: 25px;
+    background-position: 20px 8px;
+    margin-left: 10px;
+    background-repeat: no-repeat;
+}
+.imghtmlcss{
+    background-image: url("../images/htmlcss.png");
+    width: 100px;
+    height: 100px;
+    background-size: 100px;
+    margin-top: 25px;
+    background-position: 1px 20px;
+    margin-left: 10px;
+    background-repeat: no-repeat;
+}
+.imgbootstrap{
+    background-image: url("https://seeklogo.com/images/B/bootstrap-5-logo-85A1F11F4F-seeklogo.com.png");
+    width: 100px;
+    height: 100px;
+    background-size: 100px;
+    margin-top: 25px;
+    background-position: 1px 10px;
+    margin-left: 10px;
+    background-repeat: no-repeat;
+}
+.imgreact{
+    background-image: url("https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png");
+    width: 100px;
+    height: 100px;
+    background-size: 80px;
+    margin-top: 25px;
+    background-position: 10px 12px;
+    margin-left: 10px;
+    background-repeat: no-repeat;
+}
+/* html */
+.html-dev{
+    top: 580px;
+    position: relative;
+    animation: oioi 2s;
+    -webkit-animation: oioi 1s;
+}
+
+.info-html{
+    margin-top: -900px;
+    left: 430px;
+    border-radius: 10px;
+    background-color: rgb(128, 0, 255);
+    width: 300px;
+    box-shadow: -0.1px -0.1px 3px 5px white;
+    position: relative;
+    height: 300px;
+}
+.info-html h6{
+    text-shadow: 1px 1px 1px black;
+    color: aliceblue;
+    font-style: italic;
+    text-align: center;
+    font-size: 15px;
+    margin-top: 60px;
+    position: absolute;
+}
+.info-html h4{
+    text-shadow: 1px 1px 1px black;
+    color: aliceblue;
+    font-style: inherit;
+    text-align: left;
+    padding: 10px;
+    font-size: 14px;
+    margin-top: 140px;
+    position: absolute;
+}
+.info-html #h4{
+    text-shadow: 1px 1px 1px black;
+    color: aliceblue;
+    font-style: inherit;
+    text-align: left;
+    padding: 10px;
+    font-size: 14px;
+    margin-top: 220px;
+    position: absolute;
+}
+.info-html span{
+    text-shadow: 1px 1px 1px black;
+    color: rgb(255, 0, 102);
+    font-style: inherit;
+    text-align: left;
+    padding: 10px;
+    font-size: 55px;
+    margin-top: 70px;
+    position: absolute;
+}
+.info-html #span2{
+    text-shadow: 1px 1px 1px black;
+    color: rgb(255, 0, 102);
+    font-style: inherit;
+    text-align: left;
+    padding: 10px;
+    font-size: 55px;
+    margin-top: 140px;
+    position: absolute;
+}
+.info-html input{
+    width: 80px;
+    font-size: 10px;
+    color: aliceblue;
+    border-color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 226);
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+    margin-top: 270px;
+    margin-left: 200px;
+}
+
+@keyframes oioi {
+    0%{
+        left: 430px;
+        margin-top: -1400px;
+}
+    100%{
+        top: 580px;
+        transform: translateY(5px);
+        -webkit-transform: translateY(5px);
+        -moz-transform: translateY(5px);
+        -ms-transform: translateY(5px);
+        -o-transform: translateY(5px);
+}
+}
+
+.btnhtml{
+    border-radius: 100%;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    -ms-border-radius: 100%;
+    -o-border-radius: 100%;
+    height: 20px;
+    font-size: 10px;
+    position: relative;
+    left: 310px;
+    top: 70px;
+    background-color: rgb(127, 187, 255);
+    border-color: rgb(77, 83, 89);
+}
+/* php */
+.php-dev{
+    top: 1060px;
+    position: relative;
+    animation: phpp 1s;
+    -webkit-animation: phpp 1s;
+}
+
+.info-php{
+    margin-top: -780px;
+    left: 430px;
+    border-radius: 10px;
+    background-color: rgb(0, 13, 255);
+    width: 300px;
+    box-shadow: -0.1px -0.1px 3px 5px white;
+    position: relative;
+    height: 300px;
+}
+.info-php h6{
+    text-shadow: 1px 1px 1px black;
+    color: aliceblue;
+    font-style: italic;
+    text-align: center;
+    margin-left: 10px;
+    font-size: 15px;
+    margin-top: 60px;
+    position: absolute;
+}
+.info-php h4{
+    text-shadow: 1px 1px 1px black;
+    color: aliceblue;
+    font-style: inherit;
+    text-align: left;
+    padding: 10px;
+    font-size: 14px;
+    margin-top: 140px;
+    position: absolute;
+}
+.info-php #h4{
+    text-shadow: 1px 1px 1px black;
+    color: aliceblue;
+    font-style: inherit;
+    text-align: left;
+    padding: 10px;
+    font-size: 14px;
+    margin-top: 230px;
+    position: absolute;
+}
+.info-php span{
+    text-shadow: 1px 1px 1px black;
+    color: rgb(255, 0, 102);
+    font-style: inherit;
+    text-align: left;
+    padding: 10px;
+    font-size: 55px;
+    margin-top: 70px;
+    position: absolute;
+}
+.info-php #span3{
+    text-shadow: 1px 1px 1px black;
+    color: rgb(255, 0, 102);
+    font-style: inherit;
+    text-align: left;
+    padding: 10px;
+    font-size: 55px;
+    margin-top: 155px;
+    position: absolute;
+}
+.info-php input{
+    width: 80px;
+    font-size: 10px;
+    color: aliceblue;
+    border-color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 226);
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+    margin-top: 270px;
+    margin-left: 200px;
+}
+
+@keyframes phpp {
+    0%{
+        left: 430px;
+        margin-top: -1400px;
+}
+    100%{
+        top: 1080px;
+        transform: translateY(5px);
+        -webkit-transform: translateY(5px);
+        -moz-transform: translateY(5px);
+        -ms-transform: translateY(5px);
+        -o-transform: translateY(5px);
+}
+}
+
+.btnphp{
+    border-radius: 100%;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    -ms-border-radius: 100%;
+    -o-border-radius: 100%;
+    height: 20px;
+    font-size: 10px;
+    position: relative;
+    left: 310px;
+    top: 70px;
+    background-color: rgb(127, 168, 255);
+}
+/* js */
+.js-dev{
+    top: 1540px;
+    position: relative;
+    animation: jss 1s;
+    -webkit-animation: jss 1s;
+}
+
+.info-js{
+    margin-top: -780px;
+    left: 415px;
+    border-radius: 10px;
+    background-color: rgb(89, 1, 133);
+    width: 300px;
+    box-shadow: -0.1px -0.1px 3px 5px white;
+    position: relative;
+    height: 300px;
+}
+.info-js h6{
+    text-shadow: 1px 1px 1px black;
+    color: aliceblue;
+    font-style: italic;
+    text-align: center;
+    font-size: 15px;
+    margin-top: 60px;
+    position: absolute;
+}
+.info-js h4{
+    text-shadow: 1px 1px 1px black;
+    color: aliceblue;
+    font-style: inherit;
+    text-align: left;
+    padding: 10px;
+    font-size: 14px;
+    margin-top: 140px;
+    position: absolute;
+}
+.info-js #h4{
+    text-shadow: 1px 1px 1px black;
+    color: aliceblue;
+    font-style: inherit;
+    text-align: left;
+    padding: 10px;
+    font-size: 14px;
+    margin-top: 230px;
+    position: absolute;
+}
+.info-js span{
+    text-shadow: 1px 1px 1px black;
+    color: rgb(255, 0, 102);
+    font-style: inherit;
+    text-align: left;
+    padding: 10px;
+    font-size: 55px;
+    margin-top: 70px;
+    position: absolute;
+}
+.info-js #span3{
+    text-shadow: 1px 1px 1px black;
+    color: rgb(255, 0, 102);
+    font-style: inherit;
+    text-align: left;
+    padding: 10px;
+    font-size: 55px;
+    margin-top: 155px;
+    position: absolute;
+}
+.info-js input{
+    width: 80px;
+    font-size: 10px;
+    color: aliceblue;
+    border-color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 226);
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+    margin-top: 270px;
+    margin-left: 200px;
+}
+@keyframes jss {
+    0%{
+        left: 415px;
+        margin-top: -1400px;
+}
+    100%{
+        left: 415px;
+        top: 1540px;
+        transform: translateY(5px);
+        -webkit-transform: translateY(5px);
+        -moz-transform: translateY(5px);
+        -ms-transform: translateY(5px);
+        -o-transform: translateY(5px);
+}
+}
+.btnjs{
+    border-radius: 100%;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    -ms-border-radius: 100%;
+    -o-border-radius: 100%;
+    height: 20px;
+    font-size: 10px;
+    position: absolute;
+    left: 320px;
+    top: 125px;
+    background-color: rgb(127, 168, 255);
+}
+/* css */
+.css-dev{
+    top: 2020px;
+    position: relative;
+    animation: css 1s;
+    -webkit-animation: css 1s;
+}
+
+.info-css{
+    margin-top: -780px;
+    left: 415px;
+    border-radius: 10px;
+    background-color: rgb(1, 80, 133);
+    width: 300px;
+    box-shadow: -0.1px -0.1px 3px 5px white;
+    position: relative;
+    height: 300px;
+}
+.info-css h6{
+    text-shadow: 1px 1px 1px black;
+    color: aliceblue;
+    font-style: italic;
+    text-align: center;
+    font-size: 15px;
+    margin-top: 60px;
+    position: absolute;
+}
+.info-css h4{
+    text-shadow: 1px 1px 1px black;
+    color: aliceblue;
+    font-style: inherit;
+    text-align: left;
+    padding: 10px;
+    font-size: 14px;
+    margin-top: 140px;
+    position: absolute;
+}
+.info-css #h4{
+    text-shadow: 1px 1px 1px black;
+    color: aliceblue;
+    font-style: inherit;
+    text-align: left;
+    padding: 10px;
+    font-size: 14px;
+    margin-top: 230px;
+    position: absolute;
+}
+.info-css span{
+    text-shadow: 1px 1px 1px black;
+    color: rgb(255, 0, 102);
+    font-style: inherit;
+    text-align: left;
+    padding: 10px;
+    font-size: 55px;
+    margin-top: 70px;
+    position: absolute;
+}
+.info-css #span3{
+    text-shadow: 1px 1px 1px black;
+    color: rgb(255, 0, 102);
+    font-style: inherit;
+    text-align: left;
+    padding: 10px;
+    font-size: 55px;
+    margin-top: 155px;
+    position: absolute;
+}
+.info-css input{
+    width: 80px;
+    font-size: 10px;
+    color: aliceblue;
+    border-color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 226);
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+    margin-top: 270px;
+    margin-left: 200px;
+}
+.btncss{
+    border-radius: 100%;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    -ms-border-radius: 100%;
+    -o-border-radius: 100%;
+    height: 20px;
+    font-size: 10px;
+    position: absolute;
+    left: 320px;
+    top: 125px;
+    background-color: rgb(127, 168, 255);
+}
+/* bts */
+.bts-dev{
+    top: 2500px;
+    position: relative;
+    animation: bts 1s;
+    -webkit-animation: bts 1s;
+}
+
+.info-bts{
+    margin-top: -780px;
+    left: 415px;
+    border-radius: 10px;
+    background-color: rgb(133, 1, 116);
+    width: 300px;
+    box-shadow: -0.1px -0.1px 3px 5px white;
+    position: relative;
+    height: 300px;
+}
+.info-bts h6{
+    text-shadow: 1px 1px 1px black;
+    color: aliceblue;
+    font-style: italic;
+    text-align: center;
+    font-size: 15px;
+    margin-top: 60px;
+    position: absolute;
+}
+.info-bts h4{
+    text-shadow: 1px 1px 1px black;
+    color: aliceblue;
+    font-style: inherit;
+    text-align: left;
+    padding: 10px;
+    font-size: 14px;
+    margin-top: 140px;
+    position: absolute;
+}
+.info-bts #h4{
+    text-shadow: 1px 1px 1px black;
+    color: aliceblue;
+    font-style: inherit;
+    text-align: left;
+    padding: 10px;
+    font-size: 14px;
+    margin-top: 230px;
+    position: absolute;
+}
+.info-bts span{
+    text-shadow: 1px 1px 1px black;
+    color: rgb(255, 0, 102);
+    font-style: inherit;
+    text-align: left;
+    padding: 10px;
+    font-size: 55px;
+    margin-top: 70px;
+    position: absolute;
+}
+.info-bts #span3{
+    text-shadow: 1px 1px 1px black;
+    color: rgb(255, 0, 102);
+    font-style: inherit;
+    text-align: left;
+    padding: 10px;
+    font-size: 55px;
+    margin-top: 155px;
+    position: absolute;
+}
+.info-bts input{
+    width: 80px;
+    font-size: 10px;
+    color: aliceblue;
+    border-color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 226);
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+    margin-top: 270px;
+    margin-left: 200px;
+}
+
+@keyframes bts {
+    0%{
+        left: 415px;
+        margin-top: -1400px;
+}
+    100%{
+        left: 415px;
+        top: 2500px;
+        transform: translateY(5px);
+        -webkit-transform: translateY(5px);
+        -moz-transform: translateY(5px);
+        -ms-transform: translateY(5px);
+        -o-transform: translateY(5px);
+}
+}
+
+.btnbts{
+    border-radius: 100%;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    -ms-border-radius: 100%;
+    -o-border-radius: 100%;
+    height: 20px;
+    font-size: 10px;
+    position: absolute;
+    left: 320px;
+    top: 125px;
+    background-color: rgb(127, 168, 255);
+}
+/* react */
+.react-dev{
+    top: 2980px;
+    position: relative;
+    animation: react 1s;
+    -webkit-animation: react 1s;
+}
+
+.info-react{
+    margin-top: -780px;
+    left: 415px;
+    border-radius: 10px;
+    background-color: rgb(1, 133, 41);
+    width: 300px;
+    box-shadow: -0.1px -0.1px 3px 5px white;
+    position: relative;
+    height: 300px;
+}
+.info-react h6{
+    text-shadow: 1px 1px 1px black;
+    color: aliceblue;
+    font-style: italic;
+    text-align: center;
+    font-size: 15px;
+    margin-top: 60px;
+    position: absolute;
+}
+.info-react h4{
+    text-shadow: 1px 1px 1px black;
+    color: aliceblue;
+    font-style: inherit;
+    text-align: left;
+    padding: 10px;
+    font-size: 14px;
+    margin-top: 140px;
+    position: absolute;
+}
+.info-react #h4{
+    text-shadow: 1px 1px 1px black;
+    color: aliceblue;
+    font-style: inherit;
+    text-align: left;
+    padding: 10px;
+    font-size: 14px;
+    margin-top: 230px;
+    position: absolute;
+}
+.info-react span{
+    text-shadow: 1px 1px 1px black;
+    color: rgb(255, 0, 102);
+    font-style: inherit;
+    text-align: left;
+    padding: 10px;
+    font-size: 55px;
+    margin-top: 70px;
+    position: absolute;
+}
+.info-react #span3{
+    text-shadow: 1px 1px 1px black;
+    color: rgb(255, 0, 102);
+    font-style: inherit;
+    text-align: left;
+    padding: 10px;
+    font-size: 55px;
+    margin-top: 155px;
+    position: absolute;
+}
+.info-react input{
+    width: 80px;
+    font-size: 10px;
+    color: aliceblue;
+    border-color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 226);
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+    margin-top: 270px;
+    margin-left: 200px;
+}
+
+@keyframes react {
+    0%{
+        left: 415px;
+        margin-top: -1400px;
+}
+    100%{
+        left: 415px;
+        top: 2980px;
+        transform: translateY(5px);
+        -webkit-transform: translateY(5px);
+        -moz-transform: translateY(5px);
+        -ms-transform: translateY(5px);
+        -o-transform: translateY(5px);
+}
+}
+
+.btnreact{
+    border-radius: 100%;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    -ms-border-radius: 100%;
+    -o-border-radius: 100%;
+    height: 20px;
+    font-size: 10px;
+    position: absolute;
+    left: 320px;
+    top: 125px;
+    background-color: rgb(127, 168, 255);
+}
+
+@media (min-width:300px) and (max-width:500px){
+    .leftweb{
+        top: 500px;
+        position: absolute;
+        left: 22px;
+    }
+    .leftweb2{
+        top: 880px;
+        position: absolute;
+        left: 20px;
+    }
+    /* fuldev */
+    .btnhtml{
+        left: 328px;
+        top: 70px;
+    }
+    .html-dev{
+        top: 1100px;
+        position: relative;
+        animation: oioi 2s;
+        -webkit-animation: oioi 1s;
+    }
+    .web-developer-service{
+        left: 20px;
+    }
+    .info-html{
+        margin-top: -1400px;
+        left: 10px;
+        border-radius: 10px;
+        background-color: rgb(128, 0, 255);
+        width: 300px;
+        box-shadow: -0.1px -0.1px 3px 5px white;
+        position: relative;
+        height: 300px;
+    }
+    @keyframes oioi {
+        0%{
+            left: 10px;
+            margin-top: -1600px;
+    }
+        100%{
+            top: 1100px;
+            transform: translateY(10px);
+            -webkit-transform: translateY(10px);
+            -moz-transform: translateY(10px);
+            -ms-transform: translateY(10px);
+            -o-transform: translateY(10px);
+}
+    }
+    /* fulphp */
+    .btnphp{
+        left: 328px;
+        top: 70px;
+        position: relative;
+    }
+    .php-dev{
+        top: 1780px;
+        position: relative;
+        animation: phpp 1s;
+        -webkit-animation: phpp 1s;
+}
+    .info-php{
+        margin-top: -800px;
+        left: 10px;
+        border-radius: 10px;
+        background-color: rgb(0, 13, 255);
+        width: 300px;
+        box-shadow: -0.1px -0.1px 3px 5px white;
+        position: relative;
+        height: 300px;
+    }
+    @keyframes phpp {
+        0%{
+            left: 10px;
+            margin-top: -1100px;
+    }
+        100%{
+            top: 1780px;
+            transform: translateY(10px);
+            -webkit-transform: translateY(10px);
+            -moz-transform: translateY(10px);
+            -ms-transform: translateY(10px);
+            -o-transform: translateY(10px);
+}
+    }
+    /* js */
+    .js-dev{
+        top: 2460px;
+        position: relative;
+        animation: js 1s;
+        -webkit-animation: js 1s;
+}
+    .info-js{
+        margin-top: -800px;
+        left: 10px;
+        border-radius: 10px;
+        background-color: rgb(89, 1, 133);
+        width: 300px;
+        box-shadow: -0.1px -0.1px 3px 5px white;
+        position: relative;
+        height: 300px;
+    }
+    .btnjs{
+        left: 328px;
+        top: 122px;
+    }
+    @keyframes js{
+        0%{
+            left: 10px;
+            margin-top: -1300px;
+    }
+        100%{
+            top: 2460px;
+            transform: translateY(10px);
+            -webkit-transform: translateY(10px);
+            -moz-transform: translateY(10px);
+            -ms-transform: translateY(10px);
+            -o-transform: translateY(10px);
+}
+    }
+    /* css */
+    .css-dev{
+        top: 3150px;
+        position: relative;
+        animation: css 1s;
+        -webkit-animation: css 1s;
+}
+    .info-css{
+        margin-top: -800px;
+        left: 10px;
+        border-radius: 10px;
+        background-color: rgb(1, 80, 133);
+        width: 300px;
+        box-shadow: -0.1px -0.1px 3px 5px white;
+        position: relative;
+        height: 300px;
+    }
+    .btncss{
+        left: 328px;
+        top: 122px;
+    }
+    @keyframes css{
+        0%{
+            left: 10px;
+            margin-top: -1300px;
+    }
+        100%{
+            top: 3150px;
+            transform: translateY(10px);
+            -webkit-transform: translateY(10px);
+            -moz-transform: translateY(10px);
+            -ms-transform: translateY(10px);
+            -o-transform: translateY(10px);
+}
+    }
+    /* bts */
+    .bts-dev{
+        top: 3840px;
+        position: relative;
+        animation: bts 1s;
+        -webkit-animation: bts 1s;
+}
+    .info-bts{
+        margin-top: -800px;
+        left: 10px;
+        border-radius: 10px;
+        background-color: rgb(133, 1, 116);
+        width: 300px;
+        box-shadow: -0.1px -0.1px 3px 5px white;
+        position: relative;
+        height: 300px;
+    }
+    .btnbts{
+        left: 328px;
+        top: 122px;
+    }
+    @keyframes bts{
+        0%{
+            left: 10px;
+            margin-top: -1300px;
+    }
+        100%{
+            top: 3840px;
+            transform: translateY(10px);
+            -webkit-transform: translateY(10px);
+            -moz-transform: translateY(10px);
+            -ms-transform: translateY(10px);
+            -o-transform: translateY(10px);
+}
+    }
+    /* react */
+    .react-dev{
+        top: 4350px;
+        position: relative;
+        animation: react 1s;
+        -webkit-animation: react 1s;
+}
+    .info-react{
+        margin-top: -800px;
+        left: 10px;
+        border-radius: 10px;
+        background-color: rgb(1, 133, 41);
+        width: 300px;
+        box-shadow: -0.1px -0.1px 3px 5px white;
+        position: relative;
+        height: 300px;
+    }
+    .btnreact{
+        left: 328px;
+        top: 122px;
+    }
+    @keyframes react{
+        0%{
+            left: 10px;
+            margin-top: -1300px;
+    }
+        100%{
+            top: 4350px;
+            transform: translateY(10px);
+            -webkit-transform: translateY(10px);
+            -moz-transform: translateY(10px);
+            -ms-transform: translateY(10px);
+            -o-transform: translateY(10px);
+}
+    }
+    .web-developer-service3{
+        margin-left: -5px;
+        margin-top: 40px; 
+        position: relative;
+    }
+    .web-developer-service4{
+        margin-left: -5px;
+        margin-top: 32px; 
+        position: relative;
+    }
+    .web-developer-service{
+        margin-top: 50px;
+    }
+    .imgfullstack{
+        background-image: url("../images/gambarfullstack.png");
+        width: 100px;
+        height: 100px;
+        background-size: cover;
+        margin-top: 25px;
+        margin-left: -10px;
+    }
+    .imgphp{
+        background-image: url("https://seeklogo.com/images/P/PHP-logo-0B2FDC4529-seeklogo.com.png");
+        width: 100px;
+        height: 100px;
+        background-size: contain;
+        margin-top: 25px;
+        background-position: 1px 20px;
+        margin-left: -10px;
+        background-repeat: no-repeat;
+    }
+}

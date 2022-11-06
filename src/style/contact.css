@@ -1,0 +1,331 @@
+.bi-telephone-fill{
+    color: rgb(176, 32, 201);
+    margin-top: 80px;
+    filter: drop-shadow(2px 1px 1px rgb(232, 232, 232));
+    margin-left: 45px;
+    font-size: 25px;
+    transform: rotate(260deg);
+    position: absolute;
+    -webkit-transform: rotate(260deg);
+    -moz-transform: rotate(260deg);
+    -ms-transform: rotate(260deg);
+    -o-transform: rotate(260deg);
+    -webkit-filter: drop-shadow(2px 1px 1px rgb(232, 232, 232));
+}
+/* width */
+::-webkit-scrollbar {
+    width: 5px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px rgb(0, 0, 0); 
+    height: 10px;
+    border-radius: 10px;
+    background-color: black;
+  }
+    
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: rgb(179, 0, 255); 
+    border-radius: 10px;
+    height: 10px;
+  }
+.textawal h2{
+    text-shadow: 2px 2px 2px purple;
+    text-align: center;
+}
+.textend{
+    margin-top: 240px;
+}
+.iconbts h4{
+    color: aliceblue;
+    margin-left: 15px;
+    margin-top: 130px;
+    position: absolute;
+    font-size: 17px;
+}
+.iconbts span{
+    color: rgb(107, 107, 107);
+    margin-top: 155px;
+    margin-left: 3px;
+    position: absolute;
+    font-size: 12px;
+}
+
+.bi-whatsapp{
+    color: rgb(92, 255, 80);
+    margin-top: 80px;
+    filter: drop-shadow(2px 1px 1px rgb(47, 197, 92));
+    margin-left: 245px;
+    font-size: 25px;
+    position: absolute;
+}
+
+.iconbts2 h4{
+    color: aliceblue;
+    margin-left: 205px;
+    margin-top: 130px;
+    position: absolute;
+    font-size: 17px;
+}
+.iconbts2 span{
+    color: rgb(107, 107, 107);
+    margin-top: 155px;
+    margin-left: 203px;
+    position: absolute;
+    font-size: 12px;
+}
+
+.bi-envelope{  
+    color: rgb(236, 236, 236);
+    margin-top: 80px;
+    filter: drop-shadow(2px 1px 1px rgb(197, 65, 47));
+    margin-left: 445px;
+    font-size: 25px;
+    position: absolute;
+}
+
+.iconbts3 h4{
+    color: aliceblue;
+    margin-left: 420px;
+    margin-top: 130px;
+    position: absolute;
+    font-size: 17px;
+}
+.iconbts3 span{
+    color: rgb(107, 107, 107);
+    margin-top: 155px;
+    margin-left: 393px;
+    position: absolute;
+    font-size: 12px;
+}
+.bi-instagram{
+    color: rgb(255, 3, 3);
+    margin-top: 80px;
+    filter: drop-shadow(2px 1px 1px rgb(188, 154, 154));
+    margin-left: 645px;
+    font-size: 25px;
+    position: absolute;
+}
+
+.iconbts4 h4{
+    color: aliceblue;
+    margin-left: 605px;
+    margin-top: 130px;
+    position: absolute;
+    font-size: 17px;
+}
+.iconbts4 span{
+    color: rgb(107, 107, 107);
+    margin-top: 155px;
+    margin-left: 620px;
+    position: absolute;
+    font-size: 12px;
+}
+.bi-facebook{  
+    color: rgb(255, 255, 255);
+    margin-top: 80px;
+    filter: drop-shadow(2px 1px 1px rgb(0, 30, 255));
+    margin-left: 845px;
+    font-size: 25px;
+    position: absolute;
+}
+
+.iconbts5 h4{
+    color: aliceblue;
+    margin-left: 805px;
+    margin-top: 130px;
+    position: absolute;
+    font-size: 17px;
+}
+.iconbts5 span{
+    color: rgb(107, 107, 107);
+    margin-top: 155px;
+    margin-left: 820px;
+    position: absolute;
+    font-size: 12px;
+}
+.bi-messenger{  
+    color: rgb(255, 255, 255);
+    margin-top: 80px;
+    filter: drop-shadow(2px 1px 1px rgb(0, 30, 255));
+    margin-left: 1045px;
+    font-size: 25px;
+    position: absolute;
+}
+
+.iconbts6 h4{
+    color: aliceblue;
+    margin-left: 1005px;
+    margin-top: 130px;
+    position: absolute;
+    font-size: 17px;
+}
+.iconbts6 span{
+    color: rgb(107, 107, 107);
+    margin-top: 155px;
+    margin-left: 1020px;
+    position: absolute;
+    font-size: 12px;
+}
+
+.input1{
+    background-color: rgb(42, 38, 44);
+    position: absolute;
+    top: 560px;
+    width: 500px;
+    color: aliceblue;
+    padding-left: 10px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+.input2{
+    color: aliceblue;
+    position: absolute;
+    top: 560px;
+    margin-left: 550px;
+    width: 500px;
+    background-color: rgb(42, 38, 44);
+    padding-left: 10px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+.input3{
+    position: absolute;
+    color: aliceblue;
+    top: 610px;
+    background-color: rgb(42, 38, 44);
+    width: 1050px;
+    padding-left: 10px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+.input4{
+    color: aliceblue;
+    position: absolute;
+    background-color: rgb(42, 38, 44);
+    top: 660px;
+    height: 200px;
+    width: 1050px;
+    padding-bottom: 160px;
+    padding-left: 10px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+.send button{
+    margin-top: 350px;
+    width: 100px;
+    height: 32px;
+    color: aliceblue;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    background-color: rgb(123, 9, 180);
+}
+
+@media (min-width:300px) and (max-width:500px){
+    .aturicon{
+        margin-top: -35px;
+    }
+    .bi-whatsapp{
+        left: 50px;
+    }
+    .iconbts2{
+        margin-left: 30px;
+    }
+    .bi-envelope{
+        left: -375px;
+        margin-top: 200px;
+    }
+    .iconbts3 h4{
+        top: 345px;
+        margin-left: 20px;
+    }
+    .iconbts3 span{
+        top: 345px;
+        margin-left: -10px;
+    }
+    .bi-instagram{
+        left: -345px;
+        margin-top: 200px;
+    }
+    .iconbts4 h4{
+        top: 345px;
+        margin-left: 235px;
+    }
+    .iconbts4 span{
+        top: 345px;
+        margin-left: 250px;
+    }
+    .bi-facebook{
+        left: -775px;
+        margin-top: 330px;
+    }
+    .iconbts5 h4{
+        top: 465px;
+        margin-left: 5px;
+    }
+    .iconbts5 span{
+        top: 465px;
+        margin-left: 20px;
+    }
+    .bi-messenger{
+        left: -745px;
+        margin-top: 330px;
+    }
+    .iconbts6 h4{
+        top: 466px;
+        margin-left: 230px;
+    }
+    .iconbts6 span{
+        top: 465px;
+        margin-left: 250px;
+    }
+    .textawal h2{
+        margin-top: 35px;
+        position: relative;
+    }
+    .textend{
+        margin-top: 470px;
+    }
+    .input1{
+        margin-top: 180px;
+        width: 350px;
+        margin-left: -5px;
+    }
+    .input2{
+        margin-top: 230px;
+        width: 350px;
+        margin-left: -5px;
+    }
+    .input3{
+        margin-top: 230px;
+        width: 350px;
+        margin-left: -5px;
+    }
+    .input4{
+        margin-top: 230px;
+        width: 350px;
+        margin-left: -5px;
+    }
+    .send button{
+        margin-top: 390px;
+    }
+}
+

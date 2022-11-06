@@ -1,0 +1,348 @@
+.hasil{
+    color: aliceblue;
+    font-size: 16px;
+    text-shadow: 1px 1px 1px black;
+    margin-top: 20px;
+    font-style: italic;
+}
+.box-porto-one{
+    background-color: rgb(90, 0, 154);
+    width: 220px;
+    box-shadow: -0.1px -0.1px 2px 5px rgb(209, 209, 209);
+    margin-left: -40px;
+    height: 280px;
+    margin-top: 40px;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+}
+.box-porto-one h3{
+   font-size: 15px;
+   color: aliceblue;
+   text-align: center;
+   margin-top: -10px;
+   margin-left: -5px;
+   font-style: italic;
+   text-shadow: 1px 1px 1px black;
+}
+.box-porto-one span{
+   font-size: 11px;
+   color: aliceblue;
+   top: 5px;
+   left: 8px;
+   position: relative;
+   font-style: italic;
+   text-shadow: 1px 1px 1px black;
+}
+.box-porto-one input{
+    background-color: rgb(201, 0, 80);
+    border-color: aliceblue;
+    margin-left: 90px;
+    color: aliceblue;
+    margin-top: 12px;
+    position: absolute;
+    font-size: 13px;
+    padding-bottom: 22px;
+    border-radius: 20px;
+    width: 60px;
+    height: 24px;
+}
+.bgporto{
+    background-image: url("../images/bg-porto.png");
+    background-size: 210px;
+    margin-left: 5px;
+    margin-top: 10px;
+    background-repeat: no-repeat;
+    width: 210px;
+    height: 136px;
+}
+.bgcake{
+    background-image: url("../images/cakee.png");
+    background-size: 155px 90px;
+    background-repeat: no-repeat;
+    width: 155px;
+    height: 90px;
+    margin-top: -163px;
+    margin-left: 32px;
+}
+
+/* box-two */
+
+.box-porto-two{
+    background-color: rgb(90, 0, 154);
+    width: 220px;
+    box-shadow: -0.1px -0.1px 2px 5px rgb(209, 209, 209);
+    height: 280px;
+    margin-top: -280px;
+    border-radius: 8px;
+    margin-left: 200px;
+}
+
+.box-porto-two h3{
+    font-size: 15px;
+    color: aliceblue;
+    text-align: center;
+    margin-top: -10px;
+    margin-left: -5px;
+    font-style: italic;
+    text-shadow: 1px 1px 1px black;
+ }
+ .box-porto-two span{
+    font-size: 9.7px;
+    color: aliceblue;
+    top: 5px;
+    left: 8px;
+    position: relative;
+    font-style: italic;
+    text-shadow: 1px 1px 1px black;
+ }
+ .box-porto-two input{
+     background-color: rgb(201, 0, 80);
+     border-color: aliceblue;
+     margin-left: 40px;
+     color: aliceblue;
+     margin-top: 12px;
+     position: absolute;
+     font-size: 13px;
+     padding-bottom: 22px;
+     border-radius: 20px;
+     width: 60px;
+     height: 24px;
+ }
+ .bgporto{
+     background-image: url("../images/bg-porto.png");
+     background-size: 210px;
+     margin-left: 5px;
+     margin-top: 10px;
+     background-repeat: no-repeat;
+     width: 210px;
+     height: 136px;
+ }
+ .bgcoffe{
+     background-image: url("../images/cofee.png");
+     background-size: 155px 90px;
+     background-repeat: no-repeat;
+     width: 155px;
+     height: 90px;
+     margin-top: -163px;
+     margin-left: 32px;
+ }
+/* box-three */
+
+.box-porto-three{
+    background-color: rgb(90, 0, 154);
+    width: 220px;
+    box-shadow: -0.1px -0.1px 2px 5px rgb(209, 209, 209);
+    height: 280px;
+    margin-top: -280px;
+    border-radius: 8px;
+    margin-left: 440px;
+}
+
+.box-porto-three h3{
+    font-size: 15px;
+    color: aliceblue;
+    text-align: center;
+    margin-top: -10px;
+    margin-left: -5px;
+    font-style: italic;
+    text-shadow: 1px 1px 1px black;
+ }
+ .box-porto-three span{
+    font-size: 11px;
+    color: aliceblue;
+    top: 5px;
+    left: 8px;
+    position: relative;
+    font-style: italic;
+    text-shadow: 1px 1px 1px black;
+ }
+ .box-porto-three input{
+     background-color: rgb(201, 0, 80);
+     border-color: aliceblue;
+     margin-left: 90px;
+     color: aliceblue;
+     margin-top: 12px;
+     position: absolute;
+     font-size: 13px;
+     padding-bottom: 22px;
+     border-radius: 20px;
+     width: 60px;
+     height: 24px;
+     -webkit-border-radius: 20px;
+     -moz-border-radius: 20px;
+     -ms-border-radius: 20px;
+     -o-border-radius: 20px;
+}
+ .bgporto{
+     background-image: url("../images/bg-porto.png");
+     background-size: 210px;
+     margin-left: 5px;
+     margin-top: 10px;
+     background-repeat: no-repeat;
+     width: 210px;
+     height: 136px;
+ }
+ .bggym{
+     background-image: url("../images/gym.png");
+     background-size: 155px 90px;
+     background-repeat: no-repeat;
+     width: 155px;
+     height: 90px;
+     margin-top: -163px;
+     margin-left: 32px;
+ }
+/* box-four */
+
+.box-porto-four{
+    background-color: rgb(90, 0, 154);
+    width: 220px;
+    box-shadow: -0.1px -0.1px 2px 5px rgb(209, 209, 209);
+    height: 280px;
+    margin-top: -280px;
+    border-radius: 8px;
+    margin-left: 680px;
+}
+
+.box-porto-four h3{
+    font-size: 15px;
+    color: aliceblue;
+    text-align: center;
+    margin-top: -10px;
+    margin-left: -5px;
+    font-style: italic;
+    text-shadow: 1px 1px 1px black;
+ }
+ .box-porto-four span{
+    font-size: 10px;
+    color: aliceblue;
+    top: 5px;
+    left: 8px;
+    position: relative;
+    font-style: italic;
+    text-shadow: 1px 1px 1px black;
+ }
+ .box-porto-four input{
+     background-color: rgb(201, 0, 80);
+     border-color: aliceblue;
+     margin-left: 15px;
+     color: aliceblue;
+     margin-top: 12px;
+     position: absolute;
+     font-size: 13px;
+     padding-bottom: 22px;
+     border-radius: 20px;
+     width: 60px;
+     height: 24px;
+     -webkit-border-radius: 20px;
+     -moz-border-radius: 20px;
+     -ms-border-radius: 20px;
+     -o-border-radius: 20px;
+}
+ .bgporto{
+     background-image: url("../images/bg-porto.png");
+     background-size: 210px;
+     margin-left: 5px;
+     margin-top: 10px;
+     background-repeat: no-repeat;
+     width: 210px;
+     height: 136px;
+ }
+ .bgforum{
+     background-image: url("../images/forumchat.png");
+     background-size: 155px 90px;
+     background-repeat: no-repeat;
+     width: 155px;
+     height: 90px;
+     margin-top: -163px;
+     margin-left: 32px;
+ }
+/* box-five */
+
+.box-porto-five{
+    background-color: rgb(90, 0, 154);
+    width: 220px;
+    box-shadow: -0.1px -0.1px 2px 5px rgb(209, 209, 209);
+    height: 280px;
+    margin-top: -280px;
+    border-radius: 8px;
+    margin-left: 920px;
+}
+
+.box-porto-five h3{
+    font-size: 15px;
+    color: aliceblue;
+    text-align: center;
+    margin-top: -10px;
+    margin-left: -5px;
+    font-style: italic;
+    text-shadow: 1px 1px 1px black;
+ }
+ .box-porto-five span{
+    font-size: 10px;
+    color: aliceblue;
+    top: 5px;
+    left: 8px;
+    position: relative;
+    font-style: italic;
+    text-shadow: 1px 1px 1px black;
+ }
+ .box-porto-five input{
+     background-color: rgb(201, 0, 80);
+     border-color: aliceblue;
+     margin-left: 15px;
+     color: aliceblue;
+     margin-top: 12px;
+     position: absolute;
+     font-size: 13px;
+     padding-bottom: 22px;
+     border-radius: 20px;
+     width: 60px;
+     height: 24px;
+     -webkit-border-radius: 20px;
+     -moz-border-radius: 20px;
+     -ms-border-radius: 20px;
+     -o-border-radius: 20px;
+}
+ .bgporto{
+     background-image: url("../images/bg-porto.png");
+     background-size: 210px;
+     margin-left: 5px;
+     margin-top: 10px;
+     background-repeat: no-repeat;
+     width: 210px;
+     height: 136px;
+ }
+ .bgportofol{
+     background-image: url("../images/portofolio.png");
+     background-size: 155px 90px;
+     background-repeat: no-repeat;
+     width: 155px;
+     height: 90px;
+     margin-top: -163px;
+     margin-left: 32px;
+ }
+
+ @media (min-width:300px) and (max-width:500px){
+    .box-porto-one{
+        margin-left: 5px;
+    }
+    .box-porto-two{
+        margin-top: 25px;
+        margin-left: 90px;
+    }
+    .box-porto-three{
+        margin-top: 25px;
+        margin-left: 5px;
+    }
+    .box-porto-four{
+        margin-top: 25px;
+        margin-left: 90px;
+    }
+    .box-porto-five{
+        margin-top: 25px;
+        margin-left: 5px;
+    }
+ }
