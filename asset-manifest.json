@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/myportofolio-react-router/static/css/main.8db8230e.css",
+    "main.js": "/myportofolio-react-router/static/js/main.d7b56e4a.js",
+    "static/js/787.a59f037f.chunk.js": "/myportofolio-react-router/static/js/787.a59f037f.chunk.js",
+    "static/media/cofee.png": "/myportofolio-react-router/static/media/cofee.05a2e9ed3cfd2152cab7.png",
+    "static/media/bg-porto.png": "/myportofolio-react-router/static/media/bg-porto.6e3cd34d6497432cd3e7.png",
+    "static/media/cakee.png": "/myportofolio-react-router/static/media/cakee.b84682008dfd2e85f3b9.png",
+    "static/media/gym.png": "/myportofolio-react-router/static/media/gym.462ae02fee9119868354.png",
+    "static/media/forumchat.png": "/myportofolio-react-router/static/media/forumchat.6d8764ba9712ad1bb63b.png",
+    "static/media/pp.png": "/myportofolio-react-router/static/media/pp.3bf72683dce899dc8769.png",
+    "static/media/portofolio.png": "/myportofolio-react-router/static/media/portofolio.4e85c7ec69014886858c.png",
+    "static/media/foto saya.jpg": "/myportofolio-react-router/static/media/foto saya.087b282e03ce62ea7838.jpg",
+    "static/media/htmlcss.png": "/myportofolio-react-router/static/media/htmlcss.6bd5d3a2dd8d6732a45c.png",
+    "static/media/gambarfullstack.png": "/myportofolio-react-router/static/media/gambarfullstack.c6f49704e14b1944b822.png",
+    "index.html": "/myportofolio-react-router/index.html",
+    "main.8db8230e.css.map": "/myportofolio-react-router/static/css/main.8db8230e.css.map",
+    "main.d7b56e4a.js.map": "/myportofolio-react-router/static/js/main.d7b56e4a.js.map",
+    "787.a59f037f.chunk.js.map": "/myportofolio-react-router/static/js/787.a59f037f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8db8230e.css",
+    "static/js/main.d7b56e4a.js"
+  ]
+}
